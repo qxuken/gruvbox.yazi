@@ -3,9 +3,9 @@
 <plist version="1.0">
   <dict>
     <key>name</key>
-    <string>Grovbox Dark</string>
+    <string>Grovbox</string>
     <key>semanticClass</key>
-    <string>theme.dark.grovbox-dark</string>
+    <string>theme.dark.grovbox</string>
     <key>uuid</key>
     <string>a1d7544e-c55c-4443-9356-046467041b3c</string>
     <key>author</key>
